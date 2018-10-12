@@ -1,0 +1,14 @@
+.jumbotron  {
+    background-color: black !important;
+    color: red !important;
+    font-size: 24 !important;
+    border-bottom: 8px solid red;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

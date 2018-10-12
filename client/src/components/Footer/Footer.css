@@ -1,0 +1,17 @@
+.footer {
+    background-color: #080708 !important;
+    margin-top: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 8px solid red;
+    color: white !important;
+    text-align: center;
+}
+
+.footer-heading {
+    font-size: 24px;
+}
+
+.copy-right {
+    color: red !important;
+}

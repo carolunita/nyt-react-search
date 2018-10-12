@@ -1,0 +1,19 @@
+.search-btn {
+    background-color: red;
+    margin-top: 20px;
+    color: black !important;
+}
+
+.search-btn:hover {
+    background-color: black;
+    margin-top: 20px;
+    color: red !important;
+}
+
+.form-label {
+    font-size: 20px;
+}
+
+.card-header {
+    margin-bottom: 30px;
+}
