@@ -2,7 +2,7 @@
 import React from 'react';
 
 // Import UI components from reactstrap framework
-import { Card, CardBody, CardTitle, CardText, Button } from 'reactstrap';
+import { Card, CardBody, CardTitle, CardText } from 'reactstrap';
 
 // Import the Container component. 
 import Container from "../../components/Container";

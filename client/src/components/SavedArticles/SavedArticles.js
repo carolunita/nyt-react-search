@@ -2,7 +2,7 @@
 import React from "react";
 
 // Import UI components from reactstrap framework
-import { Card, CardHeader, CardBody } from 'reactstrap';
+import { Card, CardHeader } from 'reactstrap';
 
 // Saved articles component.
 const SavedArticles = props => (

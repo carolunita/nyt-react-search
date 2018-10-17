@@ -11,7 +11,7 @@ const ResultsList = props => (
             <h2 className="card-header">Search Results</h2>
         </CardHeader>
         <CardBody>
-            <ul className="list-group">{props.children}</ul>
+            <div className="list-group">{props.children}</div>
         </CardBody>
     </Card>
 );
